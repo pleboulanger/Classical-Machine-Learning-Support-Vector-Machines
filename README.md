@@ -5,5 +5,5 @@ For now, you can go to the following link from scikit-learn website (great resso
 
 https://scikit-learn.org/stable/auto_examples/exercises/plot_iris_exercise.html
 
-Frther details on SVM can also be found on scikit-learn's website:
+Further details on SVM can also be found on scikit-learn's website:
 https://scikit-learn.org/stable/modules/svm.html
